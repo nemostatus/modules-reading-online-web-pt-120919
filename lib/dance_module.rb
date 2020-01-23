@@ -12,8 +12,8 @@ module Dance
     "I'm doing a piroutte"
  
   def take_a_bow
-    "Thank you, thank you. It was a pleasure to dance for you all."
-  end
+    "Thank you,thank you.It's been a pleasure dancing for you all."
+  end 
 end 
 
 
