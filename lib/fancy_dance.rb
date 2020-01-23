@@ -13,7 +13,7 @@ def twirl
   end 
  
   def take_a_bow
-    "Thank you, thank you. It's been a pleasure to dance for you all."
+    "Thank you, thank you. It was been a pleasure to dance for you all."
   end 
 end 
 
